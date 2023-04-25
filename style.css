@@ -275,10 +275,10 @@ span{
     text-align: center;
     padding: 0 4rem;
     transform: translateY(100%);
-    transition: .3s ease;
+    transition: .5s ease;
 }
 
-.portfolio-box:hover .portfolio-layer{
+.portfolio-box:hover .portfolio-layer {
     transform: translateY(0);
 }
 
@@ -310,7 +310,7 @@ span{
     margin-bottom: 3rem;
 }
 
-.contact form{
+.contact form {
     max-width: 70rem;
     margin: 1rem auto;
     text-align: center;
@@ -330,6 +330,7 @@ span{
     font-size: 1.6rem;
     color: var(--text-color);
     background: var(--second-bg-color);
+    border-radius: .8rem;
     margin: .7rem 0;
 }
 
@@ -341,7 +342,7 @@ span{
     resize: none;
 }
 
-.contact form btn {
+.contact form .btn {
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -366,7 +367,7 @@ span{
     padding: .8rem;
     background: var(--main-color);
     border-radius: .8rem;
-    transition: .3s ease;
+    transition: .5s ease;
 }
 
 .footer-iconTop a:hover{
