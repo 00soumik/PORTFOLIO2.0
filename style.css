@@ -296,14 +296,14 @@ span{
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 8rem;
-    height: 8rem;
+    width: 7rem;
+    height: 7rem;
     background: var(--text-color);
     border-radius: 50%;
 }
 
 .portfolio-layer a i {
-    font-size: 4rem;
+    font-size: 3rem;
     color: var(--second-bg-color);
 }
 
